@@ -19,3 +19,4 @@ This project doesn’t take a lot of code, and since I have already used homespa
 **Time Spent- 45 minutes**  
 **Step/Day5 \- Submitting**  
 This is my second Highway project so it took not nearly as long to submit. I just went to [Highway.hackclub.com](http://Highway.hackclub.com) and followed the guide. Well I guess this is the end. If you read to the end you're awesome, and if you even looked at my project thanks a lot. I spent a ton of time on it and am very passionate about it.
+**Time Spent- 30 minutes**  
